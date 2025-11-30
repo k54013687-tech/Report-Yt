@@ -11,4 +11,4 @@ git clone: https://github.com/https://github.com/k54013687-tech/Report-Yt
 
 cd Report-Yt
 
-python 
+python report_yt.py
